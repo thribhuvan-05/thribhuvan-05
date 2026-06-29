@@ -2,18 +2,51 @@
 
 ## Software Engineer | Full Stack Developer | AI/ML Enthusiast
 
-### Skills
-- Python
-- JavaScript
-- Full Stack Development
-- Machine Learning
+I am a B.Tech Information Technology (AI & ML) student passionate about building scalable software systems and AI-powered applications.
+
+---
+
+## 🚀 Current Focus
 - Data Structures & Algorithms
-
-### Current Focus
-- DSA
 - Full Stack Development
-- AI/ML Projects
+- Machine Learning & AI
 - System Design
+- Software Engineering
 
-### Goal
-To become a Software Engineer building scalable and AI-powered systems.
+---
+
+## 💻 Technical Skills
+
+### Languages
+Python • Java • JavaScript • SQL
+
+### Full Stack
+HTML • CSS • Node.js • Express.js • MySQL
+
+### AI/ML
+Machine Learning • NLP • NumPy • Pandas • Scikit-Learn
+
+### Tools
+Git • GitHub • Linux • VS Code • Jupyter Notebook
+
+---
+
+## 📂 Featured Projects
+
+- 🚦 Digital Twin City Simulation
+- 🤖 AI-Powered Student Project Similarity Detection
+- 🚗 Smart Traffic Prediction Dashboard
+- 🛡️ Network Intrusion Detection System
+
+---
+
+## 🎯 Goal
+
+To become a Software Engineer capable of building scalable and AI-powered systems.
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/e-v-sai-thribhuvan-07a521268/
+- Email: thribhuvan.05@gmail.com
