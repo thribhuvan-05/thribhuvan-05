@@ -1,8 +1,9 @@
-# Hi, I'm Sai Thribhuvan 👋
+# E.V. Sai Thribhuvan
 
-## Software Engineer | Full Stack Developer | AI/ML Enthusiast
+### B.Tech Information Technology (AI & ML) | NRSC–ISRO Intern
 
-I am a B.Tech Information Technology (AI & ML) student passionate about building scalable software systems and AI-powered applications.
+I build software applications and explore practical applications of Artificial Intelligence and Machine Learning. My interests include backend engineering, data-driven systems, geospatial technology, and scalable application development.
+
 
 ---
 
