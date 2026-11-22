@@ -40,12 +40,21 @@ I build software applications and explore practical applications of Artificial I
 
 ---
 
-## 📂 Featured Projects
 
-- 🚦 Digital Twin City Simulation
-- 🤖 AI-Powered Student Project Similarity Detection
-- 🚗 Smart Traffic Prediction Dashboard
-- 🛡️ Network Intrusion Detection System
+## Featured Projects
+
+### 1. Digital Twin City Simulation
+Geospatial application combining city visualisation and data-driven traffic analysis.
+
+### 2. Warehouse Management System
+Full-stack warehouse application built with HTML, CSS, Python FastAPI and MySQL.
+
+### 3. AI Disaster Management System
+AI-based disaster management project. 
+
+### 4. Other Engineering Projects
+Explore my GitHub repositories for additional software development and AI/ML projects.
+
 
 ---
 
