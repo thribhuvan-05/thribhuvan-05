@@ -16,19 +16,27 @@ I build software applications and explore practical applications of Artificial I
 
 ---
 
-## 💻 Technical Skills
 
-### Languages
-Python • Java • JavaScript • SQL
+## Technical Skills
 
-### Full Stack
-HTML • CSS • Node.js • Express.js • MySQL
+**Programming Languages**
+- Python, Java, JavaScript, SQL
 
-### AI/ML
-Machine Learning • NLP • NumPy • Pandas • Scikit-Learn
+**Backend Development**
+- FastAPI, Node.js, Express.js, REST APIs
 
-### Tools
-Git • GitHub • Linux • VS Code • Jupyter Notebook
+**Frontend Development**
+- HTML, CSS
+
+**Database**
+- MySQL
+
+**AI & Machine Learning**
+- Machine Learning, NLP, NumPy, Pandas, Scikit-learn
+
+**Developer Tools**
+- Git, GitHub, Linux, VS Code, Jupyter Notebook
+
 
 ---
 
